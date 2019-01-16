@@ -56,15 +56,15 @@ class App extends React.Component {
         id:1
       },
       {
-        name: "Treasure",
+        name: "Harry",
         id:2
       },
       {
-        name: "Ashley",
+        name: "Luke",
         id:3
       },
       {
-        name: "James",
+        name: "Steve",
         id:4
       }
     ]
